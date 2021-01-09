@@ -324,7 +324,7 @@ header
 .sessao-header
 {
     display: flex;
-    align-itens: center;
+    align-items: center;
     justify-content: center;
 }
 
