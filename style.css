@@ -425,7 +425,7 @@ header
   font-family: var(--font-primary);
   font-size: 1.5rem;
   font-weight: 500;
-  color: #eee;
+  color: #F5F5F5;
 }
 
 .card-info h3 
@@ -551,7 +551,7 @@ header
     position: absolute;
     left: 0;
     top: 2rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-family: var(--font-secundary);
     text-transform: uppercase;
     transition: all 0.3s;
@@ -572,8 +572,90 @@ header
 {
     font-size: 1.2rem;
 
-
     width: 10rem;
     height: 2rem;
+    margin-top: 1rem;
+    letter-spacing: 0.2rem;
+    cursor: pointer;
+    text-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.3);
+}
+
+.preenchido
+{
+    pointer-events: none;
+}
+
+.sessao-orcamento
+{
+    width: 100%;
+    height: 100vh;
+    background: url("/pictures/bg-orcamento.jpg");
+    opacity: 0.9;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orcamento-wrapper
+{
+    width: 60%;
+    height: 60%;
+    background-color: #ffffff98;
+    border-radius: 10px;
+    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+.sessao-orcamento h1
+{
+    position: absolute;
+    top: -2.5rem;
+    left: 2rem;
+    background: #414345;
+    padding: 0 3rem;
+    color: #FFFFFF;
+    font-family: var(--font-primary);
+    font-size: 3rem;
+    font-weight: lighter;
+    box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.sessao-orcamento form
+{
+    margin: 4rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 2rem;
+    row-gap: 2rem;
+}
+
+.sessao-orcamento label
+{
+    font-family: var(--font-secundary);
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.sessao-orcamento input[type="number"]
+{
+    font-family: var(--font-secundary);
+    width: 4rem;
+    font-size: 1.5rem;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    padding: 0.3rem;
+}
+
+.btn-orcamento
+{
+    padding: 1rem;
+    cursor: pointer;
+    width: 10rem;
+    grid-column: 2;
+    justify-self: center;
     margin-top: 1rem;
 }
