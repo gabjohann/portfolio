@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="/.github/portfolio.png" />
+  <img width="250px" src="/.github/portfolio.png" />
 </h1>
 
 <p align="center">
- <a href="#--sobre">Sobre</a> 
+ <a href="#--sobre">Sobre</a> •
  <a href="#--funcoes">Funções</a> •
  <a href="#--como-utilizar-a-aplicacao">Como utilizar a aplicação</a> •
  <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> •
  <a href="#--controle-tarefas">Controle de Tarefas</a> •
- <a href="#--icones-commit">Ícones de Commit</a> 
+ <a href="#--commit">Commit</a> 
 </p>
 
 ![home](.github/homepage.png) 
@@ -70,12 +70,12 @@ A aplicação foi desenvolvida utilizando:
 • Prototipagem -> [Figma](https://www.figma.com/)
 
 
-## [](https://github.com/gabjohann/portifolio#--controle-tarefas) Tarefas  
+## [](https://github.com/gabjohann/portifolio#--controle-tarefas):heavy_check_mark: Tarefas  
 
 O controle de tarefas deste projeto será realizado no GitHub
 
 
-## [](https://github.com/gabjohann/portifolio#--sobre) Ícones de Commit
+## [](https://github.com/gabjohann/portifolio#--sobre):arrows_clockwise: Commit
 
 -  :clipboard:       nova funcionalidade
 -  :arrow_double_up: atualização
