@@ -6,8 +6,8 @@
  <a href="#--sobre">Sobre</a> 
  <a href="#--funcoes">Funções</a> •
  <a href="#--como-utilizar-a-aplicacao">Como utilizar a aplicação</a> •
- <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> 
- <a href="#--controle-tarefas">Controle de Tarefas</a> 
+ <a href="#--tecnologias-utilizadas">Tecnologias utilizadas</a> •
+ <a href="#--controle-tarefas">Controle de Tarefas</a> •
  <a href="#--icones-commit">Ícones de Commit</a> 
 </p>
 
