@@ -11,7 +11,7 @@
  <a href="#--commit">Commit</a> 
 </p>
 
-/*![home](.github/homepage.png) */
+<!--![home](.github/homepage.png) -->
 
 ## [](https://github.com/gabjohann/portifolio#--sobre):page_facing_up: Sobre
 
